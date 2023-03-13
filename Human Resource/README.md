@@ -1,3 +1,5 @@
+https://public.tableau.com/app/profile/john.bailey1593/viz/HumanResourceDashboard_16786545703220/HRDashboard
+
 In this Tableau project, a test dataset sample created with Python was used to create an interactive Human Resource Dashboard in Tableau. 
 
 Some of the insights captured by the dashboard:
